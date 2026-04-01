@@ -1,1 +1,1 @@
-Veebilehel on näha kell, kuupäev, nädalapäev - (liigutatav), nende suurust ja värvi saab muuta ja taustavärvi saab muuta.
+Veebilehel on näha kell, kuupäev, nädalapäev - (liigutatav), nende suurust ja värvi saab muuta ja taustavärvi saab muuta.<img width="1895" height="908" alt="image" src="https://github.com/user-attachments/assets/cf8eefbe-edfa-451c-a3b5-174d14e9aa5d" />
